@@ -1,2 +1,1 @@
-# VideoJuego2D
-Juego 
+# ProyectoVideoJuego2D

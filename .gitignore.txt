@@ -1,0 +1,30 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# IDEs
+.vscode/
+.idea/
+.vs/
+*.suo
+*.user
+*.userprefs
+
+# Archivos generados
+*.csproj
+*.unityproj
+*.sln
+*.pidb
+*.tmp
+*.booproj
+
+# Otros
+.DS_Store
+*.apk
+*.exe
+*.app
